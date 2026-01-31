@@ -1,0 +1,7 @@
+{
+  "name": "Re-Style Hub",
+  "description": "A premium circular fashion management startup landing page featuring minimalist design, interactive logistics timeline, and a location-based deposit point map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
